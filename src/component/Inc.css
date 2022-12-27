@@ -1,0 +1,8 @@
+.bt{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+button{
+    border: 2px solid red;
+}
