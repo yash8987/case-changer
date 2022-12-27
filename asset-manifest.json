@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/case-changer/static/css/main.777d31db.css",
+    "main.js": "/case-changer/static/js/main.d6eefcb8.js",
+    "static/js/787.32d91862.chunk.js": "/case-changer/static/js/787.32d91862.chunk.js",
+    "index.html": "/case-changer/index.html",
+    "main.777d31db.css.map": "/case-changer/static/css/main.777d31db.css.map",
+    "main.d6eefcb8.js.map": "/case-changer/static/js/main.d6eefcb8.js.map",
+    "787.32d91862.chunk.js.map": "/case-changer/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.777d31db.css",
+    "static/js/main.d6eefcb8.js"
+  ]
+}
